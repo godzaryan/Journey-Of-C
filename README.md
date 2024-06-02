@@ -2,7 +2,7 @@
 
 Welcome to my GitHub repository where I document my entire journey of learning the C programming language. This repository contains all my practices, codes, and lessons learned along the way. Whether you're a beginner looking to start your C programming adventure or an experienced coder looking to review concepts, I hope you find this repository helpful and inspiring.
 
-![C Programming](https://user-images.githubusercontent.com/12345678/123456789-cdf0a600-d5ef-11eb-92e7-4b0e0dc5dce5.png)
+![C Programming](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg)
 
 ## 🌟 Table of Contents
 
