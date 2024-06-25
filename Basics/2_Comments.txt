@@ -1,0 +1,20 @@
+/*
+
+comments are ignored by the compiler will compiling.
+comments are just used to increase the readability of the code.
+(all the above along with this statement is written witten a comment)
+
+NOTE : Comments are of 2 types
+--> Single line comment declared with double forward slash(//)
+--> Multi-line comment declared between (/* */)
+
+*/
+
+example of both the comment are:
+
+// this is a comment
+
+/* 
+this is also a comment but 
+we can also write a para within this comment
+*/
